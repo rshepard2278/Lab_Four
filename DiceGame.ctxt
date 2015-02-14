@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DiceGame()
+comment0.text=\r\n\ Constructor\ initializes\ a\ new\ DiceGame\r\n
+comment1.params=
+comment1.target=void\ initGame()
+comment1.text=\r\n\ Gets\ input\ from\ user\ and\ initializes\ an\ arraylist\ of\ Dice\r\n\ to\ the\ appropriate\ parameters\r\n
+comment2.params=
+comment2.target=void\ getInput()
+comment2.text=\r\n\ Gets\ input\ from\ user\ and\ validates\ input\:\r\n\ \t\tNumber\ of\ Dice\r\n\ \t\tSides\ of\ Dice\r\n\ \t\tMax\ Target\r\n\ \t\tMin\ Target\r\n
+comment3.params=
+comment3.target=void\ initArray()
+comment3.text=\r\n\ Initializes\ arrayList\ with\ dice\r\n
+comment4.params=
+comment4.target=void\ play()
+comment4.text=\r\n\ Starts\ the\ game\ play\r\n
+numComments=5

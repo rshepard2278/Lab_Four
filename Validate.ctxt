@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Validate()
+comment0.text=\r\n\ Initializes\ the\ arraylist\ with\ the\r\n\ valid\ types\ of\ dice\r\n
+comment1.params=input
+comment1.target=boolean\ numDice(int)
+comment1.text=\r\n\ Validates\ user\ input\ for\ number\ of\ dice\r\n\ \r\n\ @param\ input\ Number\ of\ Dice\r\n\ @return\ validation\ True\ if\ valid\r\n
+comment2.params=input
+comment2.target=boolean\ dieTypes(int)
+comment2.text=\r\n\ Validates\ user\ input\ for\ type\ of\ dice\r\n\ \r\n\ @param\ input\ die\ type\r\n\ @return\ validation\ True\ if\ valid\r\n
+comment3.params=max\ min
+comment3.target=boolean\ maxMin(int,\ int)
+comment3.text=\r\n\ Validates\ Min\ and\ Max\ input\ from\ the\ user\r\n\ \r\n\ @param\ max\ Max\ value\r\n\ @param\ min\ Minimum\ value\r\n\ @return\ validation\ True\ if\ valid\r\n
+numComments=4
